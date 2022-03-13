@@ -1,0 +1,48 @@
+*{
+    background: #000;
+}
+.office{
+    margin-left: 35%;
+    width: 450px;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+}
+
+h2{
+    color: #fff;
+    background-color: #229;
+    text-align: center;
+}
+
+.list{
+    color:#fff;
+
+}
+
+.form{
+    text-align: center;
+    color: #fff;
+}
+
+select{
+    color: #fff;
+}
+
+button{
+    color: #fff;
+    background-color: #229;
+}
+
+p{
+    color: #fff;
+    text-align: center;
+}
+
+input{
+    background-color: #fff;
+    text-align: center;
+    padding: 5px 50px;
+}
